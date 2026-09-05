@@ -37,11 +37,16 @@ defense:
 
 <p>🔗 <a href="https://alaganak.github.io"><strong>alaganak.github.io</strong></a> — open it and type <code>help</code>. Try <code>nasa</code> while you're there. 😉</p>
 
-<h2>📊 GitHub stats</h2>
+<h2>📊 Credentials & stats</h2>
 
 <p>
-<a href="https://github.com/AlaganAk"><img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlaganAk&hide_rank=true&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117" alt="GitHub stats"/></a>
-<a href="https://github.com/AlaganAk"><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaganAk&theme=synthwave&hide_border=true&background=0D1117" alt="GitHub streak"/></a>
+<img src="https://img.shields.io/badge/NASA-Hall_of_Fame_'25-ff4d5e?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Hall of Fame"/>
+<img src="https://img.shields.io/badge/eJPT-Junior_Penetration_Tester-8A2BE2?style=for-the-badge" alt="eJPT"/>
+<img src="https://img.shields.io/badge/VAPT-Web_·_API_·_Mobile-00b8d4?style=for-the-badge" alt="VAPT"/>
+<img src="https://img.shields.io/badge/Bug_Bounty-H1_·_BC_·_YWH-00ff9c?style=for-the-badge&logo=hackerone&logoColor=black" alt="Bug Bounty"/>
+</p>
+<p>
+<a href="https://github.com/AlaganAk"><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaganAk&theme=synthwave&hide_border=true&background=0D1117" alt="GitHub streak"/></a>
 </p>
 
 <h2>🤝 Open a secure channel</h2>
