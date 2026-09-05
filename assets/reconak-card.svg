@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-label="reconak — recon orchestration tool">
+  <defs>
+    <linearGradient id="t" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6e2424"/>
+      <stop offset="0.35" stop-color="#c93030"/>
+      <stop offset="1" stop-color="#ff4d4d"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.8" fill="#000000" opacity="0.4"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="title">
+      <text x="110" y="235" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="128" letter-spacing="6">RECONAK</text>
+    </clipPath>
+  </defs>
+
+  <rect width="1600" height="420" fill="#070404"/>
+
+  <!-- corner brackets -->
+  <g stroke="#5c1a1a" stroke-width="2" fill="none">
+    <path d="M 42 30 h 80 M 42 30 v 54"/>
+    <path d="M 1558 30 h -80 M 1558 30 v 54"/>
+    <path d="M 42 390 h 80 M 42 390 v -54"/>
+    <path d="M 1558 390 h -80 M 1558 390 v -54"/>
+  </g>
+
+  <text x="110" y="95" font-family="Consolas, 'Courier New', monospace" font-size="30" fill="#7d2b2b">~/arsenal/reconak</text>
+
+  <g filter="url(#glow)">
+    <text x="110" y="235" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="128" letter-spacing="6" fill="url(#t)">RECONAK</text>
+  </g>
+  <g clip-path="url(#title)">
+    <rect width="1600" height="420" fill="url(#scan)"/>
+  </g>
+
+  <text x="110" y="295" font-family="Consolas, 'Courier New', monospace" font-size="30" letter-spacing="9" fill="#ff9b9b">RECON ORCHESTRATION</text>
+  <text x="110" y="350" font-family="Consolas, 'Courier New', monospace" font-size="26" letter-spacing="3" fill="#8b6b6b">SUBDOMAINS · DNS · PORTS · URL HARVEST · TECH FINGERPRINT</text>
+
+  <!-- glowing radar icon -->
+  <circle cx="1355" cy="210" r="118" stroke="#5c1a1a" stroke-width="2" fill="none"/>
+  <g filter="url(#glow)" stroke="#ff4d4d" fill="none" stroke-linecap="round">
+    <circle cx="1355" cy="210" r="96" stroke-width="5" opacity="0.55"/>
+    <circle cx="1355" cy="210" r="60" stroke-width="5" opacity="0.75"/>
+    <circle cx="1355" cy="210" r="26" stroke-width="5"/>
+    <line x1="1355" y1="114" x2="1355" y2="306" stroke-width="4" opacity="0.55"/>
+    <line x1="1259" y1="210" x2="1451" y2="210" stroke-width="4" opacity="0.55"/>
+    <path d="M 1355 210 L 1355 122 A 88 88 0 0 1 1421 152 Z" fill="#e23636" stroke="none" opacity="0.28"/>
+    <circle cx="1408" cy="162" r="9" fill="#ff4d4d" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-label="AK — security analyst and penetration tester">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff8080"/>
+      <stop offset="0.45" stop-color="#e23636"/>
+      <stop offset="1" stop-color="#8f1d24"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3a1215"/>
+      <stop offset="0.5" stop-color="#e23636"/>
+      <stop offset="1" stop-color="#3a1215"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.8" fill="#000000" opacity="0.42"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-60%" width="180%" height="220%">
+      <feGaussianBlur stdDeviation="16" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="letters">
+      <text x="800" y="262" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="235" letter-spacing="26">AK</text>
+    </clipPath>
+  </defs>
+
+  <rect width="1600" height="400" fill="#070404"/>
+
+  <!-- corner brackets -->
+  <g stroke="#5c1a1a" stroke-width="2" fill="none">
+    <path d="M 55 28 h 90 M 55 28 v 62"/>
+    <path d="M 1545 28 h -90 M 1545 28 v 62"/>
+    <path d="M 55 372 h 90 M 55 372 v -62"/>
+    <path d="M 1545 372 h -90 M 1545 372 v -62"/>
+  </g>
+
+  <!-- glowing initials -->
+  <g filter="url(#glow)">
+    <text x="800" y="262" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="235" letter-spacing="26" fill="url(#g)">AK</text>
+  </g>
+  <!-- scanline texture over the letters -->
+  <g clip-path="url(#letters)">
+    <rect width="1600" height="400" fill="url(#scan)"/>
+  </g>
+
+  <rect x="470" y="300" width="660" height="2" fill="url(#rule)"/>
+  <text x="800" y="348" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="25" letter-spacing="13" fill="#ff9b9b">SECURITY ANALYST · PENETRATION TESTER</text>
+</svg>
