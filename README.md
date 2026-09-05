@@ -1,59 +1,69 @@
-<!-- ══════ root@alagan — offensive security operator ══════ -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:003b2f,50:00ff9c,100:003b2f&height=150&section=header&text=%3E_%20ALAGAN.S&fontSize=44&fontColor=001b10&stroke=00ff9c&strokeWidth=0&desc=OFFENSIVE%20SECURITY%20OPERATOR%20%C2%B7%20CLEARANCE%3A%20NASA%20HOF&descSize=15&descColor=00ff9c" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00A86B&height=180&section=header&text=%3E_%20ALAGAN.S&fontSize=48&fontColor=00ff9c&desc=OFFENSIVE%20SECURITY%20OPERATOR&descSize=16&descColor=eafff5&descAlignY=72&anim=twinkling" width="100%" alt="banner"/>
+
+<a href="https://alaganak.github.io"><img src="https://readme-typing-svg.herokuapp.com/font?color=00FF9C&background=0D111700&size=20&center=true&vCenter=true&width=560&lines=Penetration+Tester;Bug+Bounty+Hunter;VAPT+Specialist;Security+Tool+Developer;Breaking+systems+before+criminals+do" alt="typing"/></a>
+
+<img src="https://img.shields.io/badge/%F0%9F%8F%86_NASA-HALL_OF_FAME_'25-ff4d5e?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Hall of Fame"/>
+<img src="https://img.shields.io/badge/eJPT-INE_Security-8A2BE2?style=for-the-badge" alt="eJPT"/>
+<img src="https://img.shields.io/badge/HACKTHEBOX-Hacker_Rank-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
+<img src="https://img.shields.io/badge/BUG_BOUNTY-H1_%C2%B7_BC_%C2%B7_YWH-00b8d4?style=for-the-badge&logo=hackerone&logoColor=black" alt="Bug Bounty"/>
+
+<br/><br/>
+</div>
 
 ```console
-root@alagan:~$ whoami
-security analyst · penetration tester
 root@alagan:~$ cat clearance.txt
 [★] NASA HALL OF FAME '25 — letter of appreciation signed by NASA's
-    Senior Agency Information Security Officer (SAISO), OCIO
+    Senior Agency Information Security Officer (SAISO), OCIO,
     earned via responsible disclosure under NASA's VDP
 root@alagan:~$ ./status --now
-[▸] hunting bugs on hackerone · bugcrowd · yeswehack
-[▸] running VAPT engagements on web · api · mobile · network
-[▸] shipping open-source offensive tooling
+[▸] hunting bugs ............ hackerone · bugcrowd · yeswehack
+[▸] running engagements ..... web · api · mobile · network
+[▸] shipping tooling ........ ASXSS · recon arsenal (open source)
 root@alagan:~$ █
 ```
 
-<h2>⚡ operational capabilities</h2>
+## ⚡ operational capabilities
 
-```text
-┌─[ OFFENSE ]──────────────────────────────────────────────┐
-│  web exploitation .......... burp suite · owasp zap      │
-│  auth / csrf / logic ....... owasp top 10 · sans top 25  │
-│  active directory .......... mimikatz · rubeus · CME     │
-│  credential attacks ........ hashcat · responder         │
-│  recon / osint ............. shodan · censys · recon-ng  │
-├─[ AUTOMATION ]───────────────────────────────────────────┤
-│  languages ................. python · bash               │
-│  shipped tools ............. ASXSS · recon arsenal       │
-├─[ REPORTING ]────────────────────────────────────────────┤
-│  risk assessments · executive summaries · retesting      │
-└──────────────────────────────────────────────────────────┘
-```
+| domain | arsenal |
+|:---|:---|
+| **web exploitation** | burp suite · owasp zap · custom payloads |
+| **auth / csrf / logic** | owasp top 10 · sans top 25 · idor · bypasses |
+| **active directory** | mimikatz · rubeus · crackmapexec · responder |
+| **credential attacks** | hashcat · john · hash extraction |
+| **recon / osint** | shodan · censys · recon-ng · wayback · dorking |
+| **automation** | python · bash · scanner dev · recon pipelines |
+| **reporting** | risk assessments · executive summaries · retesting |
 
-<h2>🎯 active operations</h2>
+## 🎯 active operations
 
-- ▸ **bug bounty** — responsibly dropping valid reports on `hackerone` · `bugcrowd` · `yeswehack`
-- ▸ **hackthebox** — hacker rank: AD exploitation · privilege escalation · lateral movement
-- ▸ **open source** — building `ASXSS` (automated XSS detection) & recon tooling → [github.com/AlaganAk](https://github.com/AlaganAk?tab=repositories)
+| # | operation | status |
+|:---|:---|:---:|
+| `01` | bug bounty — valid, responsibly-disclosed reports | 🟢 hunting |
+| `02` | vapt engagements — enterprise web applications | 🟢 operating |
+| `03` | hackthebox — AD exploitation · privesc · lateral movement | 🟢 ranked |
+| `04` | open source — automated offensive security tooling | 🔨 building |
 
 <h2>🛡 verified certifications</h2>
 
-```console
-root@alagan:~$ ls /certs
-eJPT  ----  junior penetration tester (INE Security)
-OFF   ----  offensive penetration testing (Cybrary)
-CCEP  ----  certified cybersecurity educator professional
-root@alagan:~$ █
-```
+<div align="center">
+<img src="https://img.shields.io/badge/eJPT-Junior_Penetration_Tester-8A2BE2?style=for-the-badge" alt="eJPT"/>
+<img src="https://img.shields.io/badge/Cybrary-Offensive_Penetration_Testing-00b8d4?style=for-the-badge" alt="Cybrary"/>
+<img src="https://img.shields.io/badge/CCEP-CyberSecurity_Educator-00ff9c?style=for-the-badge" alt="CCEP"/>
+</div>
 
-<h2>📡 open a secure channel</h2>
+## 📡 connect — secure channel
 
+<div align="center">
 <a href="https://alaganak.github.io"><img src="https://img.shields.io/badge/portfolio-alaganak.github.io-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=black" alt="portfolio"/></a>
 <a href="https://linkedin.com/in/alagan-s"><img src="https://img.shields.io/badge/linkedin-%2Falagan--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="mailto:alagansankararaj77@gmail.com"><img src="https://img.shields.io/badge/email-secure%20channel-00ff9c?style=for-the-badge&logo=protonmail&logoColor=black" alt="email"/></a>
+<a href="mailto:alagansankararaj77@gmail.com"><img src="https://img.shields.io/badge/email-secure_channel-00ff9c?style=for-the-badge&logo=protonmail&logoColor=black" alt="email"/></a>
+</div>
 
 > ⚠️ **responsible disclosure only** — found something? report it properly.
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:003b2f,50:00ff9c,100:003b2f&height=100&section=footer" width="100%"/>
+<div align="center">
+<a href="https://github.com/AlaganAk"><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaganAk&theme=synthwave&hide_border=true&background=0D1117" alt="GitHub streak"/></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A86B,100:0D1117&height=110&section=footer" width="100%" alt="footer"/>
