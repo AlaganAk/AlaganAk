@@ -40,7 +40,7 @@ defense:
 <h2>📊 GitHub stats</h2>
 
 <p>
-<a href="https://github.com/AlaganAk"><img height="165" src="https://github-readme-stats.vercel.app/api?username=AlaganAk&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117" alt="GitHub stats"/></a>
+<a href="https://github.com/AlaganAk"><img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlaganAk&hide_rank=true&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117" alt="GitHub stats"/></a>
 <a href="https://github.com/AlaganAk"><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaganAk&theme=synthwave&hide_border=true&background=0D1117" alt="GitHub streak"/></a>
 </p>
 
