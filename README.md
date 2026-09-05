@@ -1,24 +1,26 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00A86B&height=180&section=header&text=%3E_%20ALAGAN.S&fontSize=48&fontColor=00ff9c&desc=OFFENSIVE%20SECURITY%20OPERATOR&descSize=16&descColor=eafff5&descAlignY=72&anim=twinkling" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0507,50:C41E3A,100:0A0507&height=180&section=header&text=%3E_%20ALAGAN.S&fontSize=48&fontColor=ffffff&desc=%E2%97%89%E2%97%89%E2%97%89%20MADARA%20MODE%20%C2%B7%20OFFENSIVE%20SECURITY%20OPERATOR&descSize=15&descColor=ffd7dc&descAlignY=72&anim=twinkling" width="100%" alt="banner"/>
 
-<img src="https://img.shields.io/badge/%F0%9F%8F%86_NASA-HALL_OF_FAME_'25-ff4d5e?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Hall of Fame"/>
-<img src="https://img.shields.io/badge/eJPT-INE_Security-8A2BE2?style=for-the-badge" alt="eJPT"/>
-<img src="https://img.shields.io/badge/HACKTHEBOX-Hacker_Rank-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
-<img src="https://img.shields.io/badge/BUG_BOUNTY-H1_%C2%B7_BC_%C2%B7_YWH-00b8d4?style=for-the-badge&logo=hackerone&logoColor=black" alt="Bug Bounty"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%86_NASA-HALL_OF_FAME_'25-C41E3A?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Hall of Fame"/>
+<img src="https://img.shields.io/badge/eJPT-INE_Security-7B2D8E?style=for-the-badge" alt="eJPT"/>
+<img src="https://img.shields.io/badge/HACKTHEBOX-Hacker_Rank-E23636?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox"/>
+<img src="https://img.shields.io/badge/BUG_BOUNTY-H1_%C2%B7_BC_%C2%B7_YWH-1A0E10?style=for-the-badge&logo=hackerone&logoColor=E23636" alt="Bug Bounty"/>
 
 <br/><br/>
 </div>
 
 ```console
-root@alagan:~$ cat clearance.txt
+uchiha@battlefield:~$ whoami
+alagan.s — offensive security operator
+uchiha@battlefield:~$ cat clearance.txt
 [★] NASA HALL OF FAME '25 — letter of appreciation signed by NASA's
     Senior Agency Information Security Officer (SAISO), OCIO,
     earned via responsible disclosure under NASA's VDP
-root@alagan:~$ ./status --now
+uchiha@battlefield:~$ ./status --now
 [▸] hunting bugs ............ hackerone · bugcrowd · yeswehack
 [▸] running engagements ..... web · api · mobile · network
 [▸] shipping tooling ........ ASXSS · recon arsenal (open source)
-root@alagan:~$ █
+uchiha@battlefield:~$ █
 ```
 
 ## ⚡ operational capabilities
@@ -37,31 +39,33 @@ root@alagan:~$ █
 
 | # | operation | status |
 |:---|:---|:---:|
-| `01` | bug bounty — valid, responsibly-disclosed reports | 🟢 hunting |
-| `02` | vapt engagements — enterprise web applications | 🟢 operating |
-| `03` | hackthebox — AD exploitation · privesc · lateral movement | 🟢 ranked |
-| `04` | open source — automated offensive security tooling | 🔨 building |
+| `01` | bug bounty — valid, responsibly-disclosed reports | 🔴 hunting |
+| `02` | vapt engagements — enterprise web applications | 🔴 operating |
+| `03` | hackthebox — AD exploitation · privesc · lateral movement | 🔴 ranked |
+| `04` | open source — automated offensive security tooling | ⚔️ building |
 
 <h2>🛡 verified certifications</h2>
 
 <div align="center">
-<img src="https://img.shields.io/badge/eJPT-Junior_Penetration_Tester-8A2BE2?style=for-the-badge" alt="eJPT"/>
-<img src="https://img.shields.io/badge/Cybrary-Offensive_Penetration_Testing-00b8d4?style=for-the-badge" alt="Cybrary"/>
-<img src="https://img.shields.io/badge/CCEP-CyberSecurity_Educator-00ff9c?style=for-the-badge" alt="CCEP"/>
+<img src="https://img.shields.io/badge/eJPT-Junior_Penetration_Tester-C41E3A?style=for-the-badge" alt="eJPT"/>
+<img src="https://img.shields.io/badge/Cybrary-Offensive_Penetration_Testing-8B2FC9?style=for-the-badge" alt="Cybrary"/>
+<img src="https://img.shields.io/badge/CCEP-CyberSecurity_Educator-E23636?style=for-the-badge" alt="CCEP"/>
 </div>
+
+> *"Wake up to reality. Nothing ever goes as planned in this accursed world."* — **Madara Uchiha**
+>
+> So I test everything before I trust it. 🔴
 
 ## 📡 connect — secure channel
 
 <div align="center">
-<a href="https://alaganak.github.io"><img src="https://img.shields.io/badge/portfolio-alaganak.github.io-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=black" alt="portfolio"/></a>
-<a href="https://linkedin.com/in/alagan-s"><img src="https://img.shields.io/badge/linkedin-%2Falagan--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="mailto:alagansankararaj77@gmail.com"><img src="https://img.shields.io/badge/email-secure_channel-00ff9c?style=for-the-badge&logo=protonmail&logoColor=black" alt="email"/></a>
+<a href="https://alaganak.github.io"><img src="https://img.shields.io/badge/portfolio-alaganak.github.io-C41E3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
+<a href="https://linkedin.com/in/alagan-s"><img src="https://img.shields.io/badge/linkedin-%2Falagan--s-1A0E10?style=for-the-badge&logo=linkedin&logoColor=E23636" alt="linkedin"/></a>
+<a href="mailto:alagansankararaj77@gmail.com"><img src="https://img.shields.io/badge/email-secure_channel-E23636?style=for-the-badge&logo=protonmail&logoColor=white" alt="email"/></a>
 </div>
-
-> ⚠️ **responsible disclosure only** — found something? report it properly.
 
 <div align="center">
-<a href="https://github.com/AlaganAk"><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaganAk&theme=synthwave&hide_border=true&background=0D1117" alt="GitHub streak"/></a>
+<a href="https://github.com/AlaganAk"><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaganAk&theme=radix&hide_border=true&background=0A0507" alt="GitHub streak"/></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A86B,100:0D1117&height=110&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C41E3A,100:0A0507&height=110&section=footer" width="100%" alt="footer"/>
