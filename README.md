@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00A86B&height=180&section=header&text=%3E_%20ALAGAN.S&fontSize=48&fontColor=00ff9c&desc=OFFENSIVE%20SECURITY%20OPERATOR&descSize=16&descColor=eafff5&descAlignY=72&anim=twinkling" width="100%" alt="banner"/>
 
-<a href="https://alaganak.github.io"><img src="https://readme-typing-svg.herokuapp.com/font?color=00FF9C&background=0D111700&size=20&center=true&vCenter=true&width=560&lines=Penetration+Tester;Bug+Bounty+Hunter;VAPT+Specialist;Security+Tool+Developer;Breaking+systems+before+criminals+do" alt="typing"/></a>
-
 <img src="https://img.shields.io/badge/%F0%9F%8F%86_NASA-HALL_OF_FAME_'25-ff4d5e?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Hall of Fame"/>
 <img src="https://img.shields.io/badge/eJPT-INE_Security-8A2BE2?style=for-the-badge" alt="eJPT"/>
 <img src="https://img.shields.io/badge/HACKTHEBOX-Hacker_Rank-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
