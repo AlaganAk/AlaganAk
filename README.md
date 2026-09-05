@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0507,50:C41E3A,100:0A0507&height=180&section=header&text=%3E_%20ALAGAN.S&fontSize=48&fontColor=ffffff&desc=%E2%97%89%E2%97%89%E2%97%89%20MADARA%20MODE%20%C2%B7%20OFFENSIVE%20SECURITY%20OPERATOR&descSize=15&descColor=ffd7dc&descAlignY=72&anim=twinkling" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0507,50:C41E3A,100:0A0507&height=180&section=header&text=%3E_%20ALAGAN.S&fontSize=48&fontColor=ffffff&desc=OFFENSIVE%20SECURITY%20OPERATOR&descSize=15&descColor=ffd7dc&descAlignY=72&anim=twinkling" width="100%" alt="banner"/>
 
 <img src="https://img.shields.io/badge/%F0%9F%8F%86_NASA-HALL_OF_FAME_'25-C41E3A?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Hall of Fame"/>
 <img src="https://img.shields.io/badge/eJPT-INE_Security-7B2D8E?style=for-the-badge" alt="eJPT"/>
@@ -10,17 +10,15 @@
 </div>
 
 ```console
-uchiha@battlefield:~$ whoami
-alagan.s — offensive security operator
-uchiha@battlefield:~$ cat clearance.txt
+root@alagan:~$ cat clearance.txt
 [★] NASA HALL OF FAME '25 — letter of appreciation signed by NASA's
     Senior Agency Information Security Officer (SAISO), OCIO,
     earned via responsible disclosure under NASA's VDP
-uchiha@battlefield:~$ ./status --now
+root@alagan:~$ ./status --now
 [▸] hunting bugs ............ hackerone · bugcrowd · yeswehack
 [▸] running engagements ..... web · api · mobile · network
 [▸] shipping tooling ........ ASXSS · recon arsenal (open source)
-uchiha@battlefield:~$ █
+root@alagan:~$ █
 ```
 
 ## ⚡ operational capabilities
@@ -52,17 +50,15 @@ uchiha@battlefield:~$ █
 <img src="https://img.shields.io/badge/CCEP-CyberSecurity_Educator-E23636?style=for-the-badge" alt="CCEP"/>
 </div>
 
-> *"Wake up to reality. Nothing ever goes as planned in this accursed world."* — **Madara Uchiha**
->
-> So I test everything before I trust it. 🔴
-
 ## 📡 connect — secure channel
 
 <div align="center">
 <a href="https://alaganak.github.io"><img src="https://img.shields.io/badge/portfolio-alaganak.github.io-C41E3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
-<a href="https://linkedin.com/in/alagan-s"><img src="https://img.shields.io/badge/linkedin-%2Falagan--s-1A0E10?style=for-the-badge&logo=linkedin&logoColor=E23636" alt="linkedin"/></a>
+<a href="https://linkedin.com/in/alagan-s"><img src="https://img.shields.io/badge/linkedin-%2Falagan--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:alagansankararaj77@gmail.com"><img src="https://img.shields.io/badge/email-secure_channel-E23636?style=for-the-badge&logo=protonmail&logoColor=white" alt="email"/></a>
 </div>
+
+> ⚠️ **responsible disclosure only** — found something? report it properly.
 
 <div align="center">
 <a href="https://github.com/AlaganAk"><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaganAk&theme=radix&hide_border=true&background=0A0507" alt="GitHub streak"/></a>
